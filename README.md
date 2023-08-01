@@ -1,3 +1,1 @@
-**My Readme file**
-#this is vagrant project
-*lash bel beka*
+This is the vagrant directory
